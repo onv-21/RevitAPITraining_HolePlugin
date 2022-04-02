@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+	<AddIn Type="Command">
+		<Assembly>"C:\Program Files\RevitAPITrainig\RevitAPITraining_HolePlugin.dll"</Assembly>
+		<AddInId>D7D4904E-88DA-46B6-86F6-5FE2C5B9AD78</AddInId>
+		<FullClassName>RevitAPITraining_HolePlugin.HolePlugin</FullClassName>
+		<VendorId>ADSK</VendorId>
+		<Text>Создание отверстий</Text>
+	</AddIn>
+</RevitAddIns>
